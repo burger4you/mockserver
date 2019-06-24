@@ -1,0 +1,18 @@
+[
+  {
+    "httpRequest": {
+      "path": "/extsub/webhook"
+    },
+    "httpResponse": {
+      "statusCode": 200
+    }
+  },
+  {
+    "httpRequest": {
+      "path": "/extsub/proxy"
+    },
+    "httpResponse": {
+      "statusCode": 200
+    }
+  }
+]
